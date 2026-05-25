@@ -1,7 +1,5 @@
 # RAG-Based Phishing Guideline Generation System
 
-[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
-
 ## Overview
 
 This repository contains the implementation and evaluation of a Retrieval-Augmented Generation (RAG) system for generating actionable phishing response guidelines for cybersecurity practitioners.
